@@ -1,6 +1,6 @@
 # Binance-Trading-Bot-Java
 This is a personal project built for fun—a complete implementation and an example of how to use the **Binance API** in Java. It allows automated trading with multiple strategies and real-time market data.
-‼️It is not 100% functional yet
+##‼️It is not 100% functional yet
 ---
 
 ## **🚀 Features**
